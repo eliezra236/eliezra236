@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eliezra236
 - 👀 I’m interested in gaming, music, playing guitar, reading and finding waldo...
-- 🌱 I’m currently working on GamePassCompare.com
+- 🌱 I’m currently working on GamePassCompare.com (private repo for now)
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me - eliezra236@gmail.com
